@@ -29,7 +29,6 @@ Un exemple pour les taches de modification:
 #### IIII  Tache4:Filtrer les machines par marque 
 
 
-![4filterParMARQUE](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/6f30bae9-a6ab-4aa6-b6c1-f2a1e61e29da)
 
 ![4filterParMARQUE2](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/5f98249f-8faf-4d39-801c-18c26ee50368)
 
