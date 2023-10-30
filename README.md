@@ -1,4 +1,7 @@
 # TPAJAX2
+
+Introduction:
+
 AJAX (Asynchronous JavaScript and XML) est une technique de développement web utilisée pour créer des applications interactives. Cela permet à une page web de mettre à jour des données spécifiques sans avoir à recharger toute la page. Avec AJAX, les requêtes peuvent être envoyées au serveur en arrière-plan, permettant aux utilisateurs de voir les mises à jour de contenu en temps réel sans interrompre leur expérience de navigation.
 
 
