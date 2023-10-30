@@ -2,36 +2,40 @@
 AJAX (Asynchronous JavaScript and XML) est une technique de développement web utilisée pour créer des applications interactives. Cela permet à une page web de mettre à jour des données spécifiques sans avoir à recharger toute la page. Avec AJAX, les requêtes peuvent être envoyées au serveur en arrière-plan, permettant aux utilisateurs de voir les mises à jour de contenu en temps réel sans interrompre leur expérience de navigation.
 
 
-### I Tache 1:
+### I Tache 1: Travailler sur le design (couleurs, logo, …)
 
 
 ![tache1](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/8a6bfbea-d59e-4eb1-8e00-4b72ce676246)
 
 
-###  II Tache 2:
+###  II Tache 2: Confirmation pour la suppression
 
 Alerte de suppression:
 
 ![2supp](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/71e32781-46a4-48fe-9f9b-c71eb1d17de5)
 
-### III Tache 3:
+### III Tache 3: Ajouter la modification
 
-Un exemple pour les taches de modification
+Un exemple pour les taches de modification:
 
 ![3modifier](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/8c2b240c-f050-458f-880f-74471b28ce97)
 
-#### IIII  Tache4:
+
+![tache2](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/4ed1af45-e373-4770-b050-44ed56834676)
+
+#### IIII  Tache4:Filtrer les machines par marque 
+
 
 ![4filterParMARQUE](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/6f30bae9-a6ab-4aa6-b6c1-f2a1e61e29da)
 
 ![4filterParMARQUE2](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/5f98249f-8faf-4d39-801c-18c26ee50368)
 
-#### IIII  Tache5:
+#### IIII  Tache5: Filtrer la liste des machines par référence
 
 ![4filterParRef](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/8e913608-ff38-4557-8f6d-10a53c84ed7c)
 
 
-#### IIII  Tache6:
+#### IIII  Tache6: Ajouter un graphe qui présente le nombre de machine par marque
 
 ![Statistique](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/ea3edfd7-3543-49ee-b709-5c8afd9855ba)
 
