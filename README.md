@@ -46,19 +46,18 @@ Un exemple pour les taches de modification:
 
 ###  Fonctionnalités du projet :
 
-1_Opérations CRUD (Create, Update, Delete) :
+1_Opérations CRUD (Create, Update, Delete) pour les défférente entités:
 
-   L'utilisateur dispose de plusieurs fonctionnalités pour gérer les machines dans le système. Tout d'abord, il peut ajouter une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et la salle d'installation. Ensuite, l'utilisateur a la possibilité de modifier les informations de n'importe quelle machine déjà enregistrée, lui permettant ainsi de mettre à jour des champs tels que la référence, la marque, le prix et la salle. Enfin, l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système
-
-
-2_Opérations CRUD (Create, Update, Delete) pour les salles:
-
-   Dans le cadre de la gestion des salles, l'utilisateur dispose également de fonctionnalités essentielles. Il peut tout d'abord ajouter de nouvelles salles en fournissant des détails tels que le nom de la salle. De plus, il a la flexibilité de modifier les détails des salles existantes, ce qui lui permet de mettre à jour des éléments tels que le nom. Enfin, l'utilisateur a la possibilité de supprimer des salles spécifiques .
+   L'utilisateur dispose de plusieurs fonctionnalités pour gérer les entités dans le système. Tout d'abord, il peut ajouter par exemple une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et la salle d'installation. Ensuite, l'utilisateur a la possibilité de modifier les informations de n'importe quelle machine déjà enregistrée, lui permettant ainsi de mettre à jour des champs tels que la référence, la marque, le prix et la salle. Enfin, l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système
    
-3_Recherche par salle:
+2_Filtrage:
 
-   Pour faciliter la recherche par salle, cette interface  offre une fonctionnalité permettant à l'utilisateur de sélectionner une salle spécifique et d'obtenir la liste complète des machines associées à cette salle. 
+   Pour faciliter la recherche , cette interface  offre une fonctionnalité permettant à l'utilisateur de sélectionner une entitée spécifique et d'obtenir la liste complète des machines associées à cette salle. 
+
    
+3_Statistique:
+
+   un graphe qui présente le nombre de machine par marque por facilité la remprésentation des machines par marque et devient plus laisible.
 
 ###  Technologies Utilisées
 
