@@ -43,7 +43,7 @@ Un exemple pour les taches de modification:
 
 ###  Fonctionnalités du projet :
 
-1_Opérations CRUD (Create, Update, Delete) pour les machines:
+1_Opérations CRUD (Create, Update, Delete) :
 
    L'utilisateur dispose de plusieurs fonctionnalités pour gérer les machines dans le système. Tout d'abord, il peut ajouter une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et la salle d'installation. Ensuite, l'utilisateur a la possibilité de modifier les informations de n'importe quelle machine déjà enregistrée, lui permettant ainsi de mettre à jour des champs tels que la référence, la marque, le prix et la salle. Enfin, l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système
 
@@ -64,8 +64,7 @@ Java: Java est un langage de programmation polyvalent et orienté objet largemen
 MySQL : MySQL est un système de gestion de base de données relationnelle open source populaire. Il est largement utilisé pour stocker, organiser et gérer de grandes quantités de données de manière efficace et fiable. Il offre une grande stabilité, une bonne performance et une large gamme de fonctionnalités, en faisant un choix populaire pour de nombreux types d'applications.
 
 Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Java qui simplifie considérablement la communication entre une application Java et une base de données relationnelle. Il permet aux développeurs de travailler avec des objets Java au lieu de requêtes SQL directes, ce qui rend le processus de persistance des données plus simple et plus flexible.
-
-RMI :  RMI est un mécanisme en Java qui permet à un objet d'appeler des méthodes sur un objet distant. Il facilite la communication entre les applications Java s'exécutant sur différentes machines virtuelles Java (JVM) en permettant l'invocation de méthodes sur des objets distants comme s'ils étaient des objets locaux. Cela simplifie la mise en œuvre de l'interaction client-serveur dans les applications distribuées.
+JSP : Les JavaServer Pages (JSP) sont une technologie qui aide les développeurs de logiciels à créer des pages web basées sur HTML et XML. Avec JSP, vous pouvez combiner des modèles statiques avec du contenu généré de manière dynamique.
 
 
 
@@ -79,20 +78,14 @@ Ouvrez le projet  dans votre environnement de développement.
 
 Etape2:
 
-Ouvrez le projet ServerRMI dans votre environnement de développement.
-Exécutez la classe Server pour lancer le serveur RMI. Assurez-vous que le serveur s'exécute sur le bon port.
-Exécuter l'application Swing en utilisant la classe principale du projet ClientRMI .
+Ouvrez le projet javaweb dans votre environnement de développement.
+Exécutez la classe machines.jsp ou un autre jsp.
 
 Etape3:
 
-Exécutez la classe principale pour lancer l'application Swing. Assurez-vous que l'application est configurée pour se connecter au serveur RMI sur le bon port.
-Utiliser l'interface graphique pour effectuer des opérations CRUD sur les machines et les salles .
-
-Etape4
-
-Une fois que l'application Swing est lancée, vous devriez voir une interface conviviale avec des fonctionnalités pour ajouter, mettre à jour, afficher et supprimer des machines et des salles.
-Utilisez les fonctionnalités appropriées pour gérer les machines et les salles en fonction de vos besoins.
+Une fois que l'application  est lancée, vous devriez voir une site web conviviale avec des fonctionnalités.
+Utilisez les fonctionnalités appropriées pour gérer les défférente entités en fonction de vos besoins.
 
 ### CONCLUSION:
 
- ce projet de gestion de salles et d'équipements, développé en utilisant Hibernate, RMI et Java Swing, vise à faciliter la procédure de réservation des ressources. Son interface conviviale, la gestion persistante des données via Hibernate, ainsi que la communication fluide permise par RMI, en font une solution précieuse pour améliorer l'efficacité des opérations.
+ ce projet de gestion de machines ,marques,etudiant, développé en utilisant Hibernate, AJAX ,JSP , vise à faciliter la procédure de réservation des ressources. Son interface conviviale, la gestion persistante des données via Hibernate, en font une solution précieuse pour améliorer l'efficacité des opérations.
