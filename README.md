@@ -67,6 +67,7 @@ Java: Java est un langage de programmation polyvalent et orienté objet largemen
 MySQL : MySQL est un système de gestion de base de données relationnelle open source populaire. Il est largement utilisé pour stocker, organiser et gérer de grandes quantités de données de manière efficace et fiable. Il offre une grande stabilité, une bonne performance et une large gamme de fonctionnalités, en faisant un choix populaire pour de nombreux types d'applications.
 
 Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Java qui simplifie considérablement la communication entre une application Java et une base de données relationnelle. Il permet aux développeurs de travailler avec des objets Java au lieu de requêtes SQL directes, ce qui rend le processus de persistance des données plus simple et plus flexible.
+
 JSP : Les JavaServer Pages (JSP) sont une technologie qui aide les développeurs de logiciels à créer des pages web basées sur HTML et XML. Avec JSP, vous pouvez combiner des modèles statiques avec du contenu généré de manière dynamique.
 
 
