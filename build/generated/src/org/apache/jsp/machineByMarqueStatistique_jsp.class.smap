@@ -1,0 +1,30 @@
+SMAP
+machineByMarqueStatistique_jsp.java
+JSP
+*S JSP
+*F
++ 0 machineByMarqueStatistique.jsp
+machineByMarqueStatistique.jsp
++ 1 menu.jsp
+template/menu.jsp
++ 2 header.jsp
+template/header.jsp
++ 3 footer.jsp
+template/footer.jsp
+*L
+1,48:56
+5#1,12:104
+48#0,3:116
+1#2,8:119
+50#0,2:126
+5#3,14:128
+51#0,10:141
+61,4:152
+64,6:156
+70,2:163
+71:165
+72,2:166,3
+74,5:172
+79,2:178
+80,60:180
+*E
