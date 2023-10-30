@@ -42,6 +42,10 @@ Un exemple pour les taches de modification:
 
 ![Statistique](https://github.com/ELMOUWAHID-AYOUB/TPAJAX2/assets/130571009/ea3edfd7-3543-49ee-b709-5c8afd9855ba)
 
+#### BASE:
+
+
+![base](https://github.com/AminaLagnidi/Ajax2Tp/assets/130571009/76a7ed83-95d4-49da-a63a-2f21920253a7)
 
 
 ###  Fonctionnalités du projet :
